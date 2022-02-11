@@ -1,0 +1,158 @@
+Timp: 0
+Coada 1 este goala
+Coada 2 este goala
+In asteptare se afla:  ( 1 , 6 , 3 )  ( 2 , 10 , 4 )  ( 3 , 8 , 3 )  ( 4 , 8 , 3 )  ( 5 , 6 , 2 )  ( 6 , 10 , 3 )  ( 7 , 4 , 3 )  ( 8 , 7 , 2 )  ( 9 , 4 , 4 )  ( 10 , 8 , 4 ) 
+
+Timp: 1
+Coada 1 este goala
+Coada 2 este goala
+In asteptare se afla:  ( 1 , 6 , 3 )  ( 2 , 10 , 4 )  ( 3 , 8 , 3 )  ( 4 , 8 , 3 )  ( 5 , 6 , 2 )  ( 6 , 10 , 3 )  ( 7 , 4 , 3 )  ( 8 , 7 , 2 )  ( 9 , 4 , 4 )  ( 10 , 8 , 4 ) 
+
+Timp: 2
+Coada 1 este goala
+Coada 2 este goala
+In asteptare se afla:  ( 1 , 6 , 3 )  ( 2 , 10 , 4 )  ( 3 , 8 , 3 )  ( 4 , 8 , 3 )  ( 5 , 6 , 2 )  ( 6 , 10 , 3 )  ( 7 , 4 , 3 )  ( 8 , 7 , 2 )  ( 9 , 4 , 4 )  ( 10 , 8 , 4 ) 
+
+Timp: 3
+Coada 1 este goala
+Coada 2 este goala
+In asteptare se afla:  ( 1 , 6 , 3 )  ( 2 , 10 , 4 )  ( 3 , 8 , 3 )  ( 4 , 8 , 3 )  ( 5 , 6 , 2 )  ( 6 , 10 , 3 )  ( 7 , 4 , 3 )  ( 8 , 7 , 2 )  ( 9 , 4 , 4 )  ( 10 , 8 , 4 ) 
+
+Timp: 4
+In coada 1 se afla:  ( 7 , 4 , 3 )   ( 9 , 4 , 4 )  
+Coada 2 este goala
+In asteptare se afla:  ( 1 , 6 , 3 )  ( 2 , 10 , 4 )  ( 3 , 8 , 3 )  ( 4 , 8 , 3 )  ( 5 , 6 , 2 )  ( 6 , 10 , 3 )  ( 8 , 7 , 2 )  ( 10 , 8 , 4 ) 
+
+Timp: 5
+In coada 1 se afla:  ( 7 , 4 , 2 )   ( 9 , 4 , 4 )  
+Coada 2 este goala
+In asteptare se afla:  ( 1 , 6 , 3 )  ( 2 , 10 , 4 )  ( 3 , 8 , 3 )  ( 4 , 8 , 3 )  ( 5 , 6 , 2 )  ( 6 , 10 , 3 )  ( 8 , 7 , 2 )  ( 10 , 8 , 4 ) 
+
+Timp: 6
+In coada 1 se afla:  ( 7 , 4 , 1 )   ( 9 , 4 , 4 )  
+In coada 2 se afla:  ( 1 , 6 , 3 )   ( 5 , 6 , 2 )  
+In asteptare se afla:  ( 2 , 10 , 4 )  ( 3 , 8 , 3 )  ( 4 , 8 , 3 )  ( 6 , 10 , 3 )  ( 8 , 7 , 2 )  ( 10 , 8 , 4 ) 
+
+Timp: 7
+In coada 1 se afla:  ( 9 , 4 , 4 )  
+In coada 2 se afla:  ( 1 , 6 , 2 )   ( 5 , 6 , 2 )  
+In asteptare se afla:  ( 2 , 10 , 4 )  ( 3 , 8 , 3 )  ( 4 , 8 , 3 )  ( 6 , 10 , 3 )  ( 8 , 7 , 2 )  ( 10 , 8 , 4 ) 
+
+Timp: 8
+In coada 1 se afla:  ( 9 , 4 , 3 )  
+In coada 2 se afla:  ( 1 , 6 , 1 )   ( 5 , 6 , 2 )  
+In asteptare se afla:  ( 2 , 10 , 4 )  ( 3 , 8 , 3 )  ( 4 , 8 , 3 )  ( 6 , 10 , 3 )  ( 8 , 7 , 2 )  ( 10 , 8 , 4 ) 
+
+Timp: 9
+In coada 1 se afla:  ( 9 , 4 , 2 )  
+In coada 2 se afla:  ( 5 , 6 , 2 )  
+In asteptare se afla:  ( 2 , 10 , 4 )  ( 3 , 8 , 3 )  ( 4 , 8 , 3 )  ( 6 , 10 , 3 )  ( 8 , 7 , 2 )  ( 10 , 8 , 4 ) 
+
+Timp: 10
+In coada 1 se afla:  ( 9 , 4 , 1 )  
+In coada 2 se afla:  ( 5 , 6 , 1 )  
+In asteptare se afla:  ( 2 , 10 , 4 )  ( 3 , 8 , 3 )  ( 4 , 8 , 3 )  ( 6 , 10 , 3 )  ( 8 , 7 , 2 )  ( 10 , 8 , 4 ) 
+
+Timp: 11
+Coada 1 este goala
+Coada 2 este goala
+In asteptare se afla:  ( 2 , 10 , 4 )  ( 3 , 8 , 3 )  ( 4 , 8 , 3 )  ( 6 , 10 , 3 )  ( 8 , 7 , 2 )  ( 10 , 8 , 4 ) 
+
+Timp: 12
+In coada 1 se afla:  ( 2 , 10 , 4 )   ( 3 , 8 , 3 )   ( 4 , 8 , 3 )   ( 6 , 10 , 3 )   ( 8 , 7 , 2 )   ( 10 , 8 , 4 )  
+Coada 2 este goala
+Nu mai sunt clienti in asteptare.
+
+Timp: 13
+In coada 1 se afla:  ( 2 , 10 , 3 )   ( 3 , 8 , 3 )   ( 4 , 8 , 3 )   ( 6 , 10 , 3 )   ( 8 , 7 , 2 )   ( 10 , 8 , 4 )  
+Coada 2 este goala
+Nu mai sunt clienti in asteptare.
+
+Timp: 14
+In coada 1 se afla:  ( 2 , 10 , 2 )   ( 3 , 8 , 3 )   ( 4 , 8 , 3 )   ( 6 , 10 , 3 )   ( 8 , 7 , 2 )   ( 10 , 8 , 4 )  
+Coada 2 este goala
+Nu mai sunt clienti in asteptare.
+
+Timp: 15
+In coada 1 se afla:  ( 2 , 10 , 1 )   ( 3 , 8 , 3 )   ( 4 , 8 , 3 )   ( 6 , 10 , 3 )   ( 8 , 7 , 2 )   ( 10 , 8 , 4 )  
+Coada 2 este goala
+Nu mai sunt clienti in asteptare.
+
+Timp: 16
+In coada 1 se afla:  ( 3 , 8 , 3 )   ( 4 , 8 , 3 )   ( 6 , 10 , 3 )   ( 8 , 7 , 2 )   ( 10 , 8 , 4 )  
+Coada 2 este goala
+Nu mai sunt clienti in asteptare.
+
+Timp: 17
+In coada 1 se afla:  ( 3 , 8 , 2 )   ( 4 , 8 , 3 )   ( 6 , 10 , 3 )   ( 8 , 7 , 2 )   ( 10 , 8 , 4 )  
+Coada 2 este goala
+Nu mai sunt clienti in asteptare.
+
+Timp: 18
+In coada 1 se afla:  ( 3 , 8 , 1 )   ( 4 , 8 , 3 )   ( 6 , 10 , 3 )   ( 8 , 7 , 2 )   ( 10 , 8 , 4 )  
+Coada 2 este goala
+Nu mai sunt clienti in asteptare.
+
+Timp: 19
+In coada 1 se afla:  ( 4 , 8 , 3 )   ( 6 , 10 , 3 )   ( 8 , 7 , 2 )   ( 10 , 8 , 4 )  
+Coada 2 este goala
+Nu mai sunt clienti in asteptare.
+
+Timp: 20
+In coada 1 se afla:  ( 4 , 8 , 2 )   ( 6 , 10 , 3 )   ( 8 , 7 , 2 )   ( 10 , 8 , 4 )  
+Coada 2 este goala
+Nu mai sunt clienti in asteptare.
+
+Timp: 21
+In coada 1 se afla:  ( 4 , 8 , 1 )   ( 6 , 10 , 3 )   ( 8 , 7 , 2 )   ( 10 , 8 , 4 )  
+Coada 2 este goala
+Nu mai sunt clienti in asteptare.
+
+Timp: 22
+In coada 1 se afla:  ( 6 , 10 , 3 )   ( 8 , 7 , 2 )   ( 10 , 8 , 4 )  
+Coada 2 este goala
+Nu mai sunt clienti in asteptare.
+
+Timp: 23
+In coada 1 se afla:  ( 6 , 10 , 2 )   ( 8 , 7 , 2 )   ( 10 , 8 , 4 )  
+Coada 2 este goala
+Nu mai sunt clienti in asteptare.
+
+Timp: 24
+In coada 1 se afla:  ( 6 , 10 , 1 )   ( 8 , 7 , 2 )   ( 10 , 8 , 4 )  
+Coada 2 este goala
+Nu mai sunt clienti in asteptare.
+
+Timp: 25
+In coada 1 se afla:  ( 8 , 7 , 2 )   ( 10 , 8 , 4 )  
+Coada 2 este goala
+Nu mai sunt clienti in asteptare.
+
+Timp: 26
+In coada 1 se afla:  ( 8 , 7 , 1 )   ( 10 , 8 , 4 )  
+Coada 2 este goala
+Nu mai sunt clienti in asteptare.
+
+Timp: 27
+In coada 1 se afla:  ( 10 , 8 , 4 )  
+Coada 2 este goala
+Nu mai sunt clienti in asteptare.
+
+Timp: 28
+In coada 1 se afla:  ( 10 , 8 , 3 )  
+Coada 2 este goala
+Nu mai sunt clienti in asteptare.
+
+Timp: 29
+In coada 1 se afla:  ( 10 , 8 , 2 )  
+Coada 2 este goala
+Nu mai sunt clienti in asteptare.
+
+Timp 30
+In coada 1 se afla:  ( 10 , 8 , 2 )  
+Coada 2 este goala
+Nu mai sunt clienti in asteptare.
+Sfarsit.
+Ora de varf: 12
+Timp mediu de servire: 3.1
+Timp mediu de asteptare in coada: 2.7055554

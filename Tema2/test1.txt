@@ -1,0 +1,183 @@
+Timp: 0
+Coada 1 este goala
+Coada 2 este goala
+In asteptare se afla:  ( 1 , 26 , 4 )  ( 2 , 30 , 4 )  ( 3 , 12 , 3 )  ( 4 , 19 , 3 ) 
+
+Timp: 1
+Coada 1 este goala
+Coada 2 este goala
+In asteptare se afla:  ( 1 , 26 , 4 )  ( 2 , 30 , 4 )  ( 3 , 12 , 3 )  ( 4 , 19 , 3 ) 
+
+Timp: 2
+Coada 1 este goala
+Coada 2 este goala
+In asteptare se afla:  ( 1 , 26 , 4 )  ( 2 , 30 , 4 )  ( 3 , 12 , 3 )  ( 4 , 19 , 3 ) 
+
+Timp: 3
+Coada 1 este goala
+Coada 2 este goala
+In asteptare se afla:  ( 1 , 26 , 4 )  ( 2 , 30 , 4 )  ( 3 , 12 , 3 )  ( 4 , 19 , 3 ) 
+
+Timp: 4
+Coada 1 este goala
+Coada 2 este goala
+In asteptare se afla:  ( 1 , 26 , 4 )  ( 2 , 30 , 4 )  ( 3 , 12 , 3 )  ( 4 , 19 , 3 ) 
+
+Timp: 5
+Coada 1 este goala
+Coada 2 este goala
+In asteptare se afla:  ( 1 , 26 , 4 )  ( 2 , 30 , 4 )  ( 3 , 12 , 3 )  ( 4 , 19 , 3 ) 
+
+Timp: 6
+Coada 1 este goala
+Coada 2 este goala
+In asteptare se afla:  ( 1 , 26 , 4 )  ( 2 , 30 , 4 )  ( 3 , 12 , 3 )  ( 4 , 19 , 3 ) 
+
+Timp: 7
+Coada 1 este goala
+Coada 2 este goala
+In asteptare se afla:  ( 1 , 26 , 4 )  ( 2 , 30 , 4 )  ( 3 , 12 , 3 )  ( 4 , 19 , 3 ) 
+
+Timp: 8
+Coada 1 este goala
+Coada 2 este goala
+In asteptare se afla:  ( 1 , 26 , 4 )  ( 2 , 30 , 4 )  ( 3 , 12 , 3 )  ( 4 , 19 , 3 ) 
+
+Timp: 9
+Coada 1 este goala
+Coada 2 este goala
+In asteptare se afla:  ( 1 , 26 , 4 )  ( 2 , 30 , 4 )  ( 3 , 12 , 3 )  ( 4 , 19 , 3 ) 
+
+Timp: 10
+Coada 1 este goala
+Coada 2 este goala
+In asteptare se afla:  ( 1 , 26 , 4 )  ( 2 , 30 , 4 )  ( 3 , 12 , 3 )  ( 4 , 19 , 3 ) 
+
+Timp: 11
+Coada 1 este goala
+Coada 2 este goala
+In asteptare se afla:  ( 1 , 26 , 4 )  ( 2 , 30 , 4 )  ( 3 , 12 , 3 )  ( 4 , 19 , 3 ) 
+
+Timp: 12
+In coada 1 se afla:  ( 3 , 12 , 3 )  
+Coada 2 este goala
+In asteptare se afla:  ( 1 , 26 , 4 )  ( 2 , 30 , 4 )  ( 4 , 19 , 3 ) 
+
+Timp: 13
+In coada 1 se afla:  ( 3 , 12 , 2 )  
+Coada 2 este goala
+In asteptare se afla:  ( 1 , 26 , 4 )  ( 2 , 30 , 4 )  ( 4 , 19 , 3 ) 
+
+Timp: 14
+In coada 1 se afla:  ( 3 , 12 , 1 )  
+Coada 2 este goala
+In asteptare se afla:  ( 1 , 26 , 4 )  ( 2 , 30 , 4 )  ( 4 , 19 , 3 ) 
+
+Timp: 15
+Coada 1 este goala
+Coada 2 este goala
+In asteptare se afla:  ( 1 , 26 , 4 )  ( 2 , 30 , 4 )  ( 4 , 19 , 3 ) 
+
+Timp: 16
+Coada 1 este goala
+Coada 2 este goala
+In asteptare se afla:  ( 1 , 26 , 4 )  ( 2 , 30 , 4 )  ( 4 , 19 , 3 ) 
+
+Timp: 17
+Coada 1 este goala
+Coada 2 este goala
+In asteptare se afla:  ( 1 , 26 , 4 )  ( 2 , 30 , 4 )  ( 4 , 19 , 3 ) 
+
+Timp: 18
+Coada 1 este goala
+Coada 2 este goala
+In asteptare se afla:  ( 1 , 26 , 4 )  ( 2 , 30 , 4 )  ( 4 , 19 , 3 ) 
+
+Timp: 19
+Coada 1 este goala
+In coada 2 se afla:  ( 4 , 19 , 3 )  
+In asteptare se afla:  ( 1 , 26 , 4 )  ( 2 , 30 , 4 ) 
+
+Timp: 20
+Coada 1 este goala
+In coada 2 se afla:  ( 4 , 19 , 2 )  
+In asteptare se afla:  ( 1 , 26 , 4 )  ( 2 , 30 , 4 ) 
+
+Timp: 21
+Coada 1 este goala
+In coada 2 se afla:  ( 4 , 19 , 1 )  
+In asteptare se afla:  ( 1 , 26 , 4 )  ( 2 , 30 , 4 ) 
+
+Timp: 22
+Coada 1 este goala
+Coada 2 este goala
+In asteptare se afla:  ( 1 , 26 , 4 )  ( 2 , 30 , 4 ) 
+
+Timp: 23
+Coada 1 este goala
+Coada 2 este goala
+In asteptare se afla:  ( 1 , 26 , 4 )  ( 2 , 30 , 4 ) 
+
+Timp: 24
+Coada 1 este goala
+Coada 2 este goala
+In asteptare se afla:  ( 1 , 26 , 4 )  ( 2 , 30 , 4 ) 
+
+Timp: 25
+Coada 1 este goala
+Coada 2 este goala
+In asteptare se afla:  ( 1 , 26 , 4 )  ( 2 , 30 , 4 ) 
+
+Timp: 26
+In coada 1 se afla:  ( 1 , 26 , 4 )  
+Coada 2 este goala
+In asteptare se afla:  ( 2 , 30 , 4 ) 
+
+Timp: 27
+In coada 1 se afla:  ( 1 , 26 , 3 )  
+Coada 2 este goala
+In asteptare se afla:  ( 2 , 30 , 4 ) 
+
+Timp: 28
+In coada 1 se afla:  ( 1 , 26 , 2 )  
+Coada 2 este goala
+In asteptare se afla:  ( 2 , 30 , 4 ) 
+
+Timp: 29
+In coada 1 se afla:  ( 1 , 26 , 1 )  
+Coada 2 este goala
+In asteptare se afla:  ( 2 , 30 , 4 ) 
+
+Timp: 30
+Coada 1 este goala
+In coada 2 se afla:  ( 2 , 30 , 4 )  
+Nu mai sunt clienti in asteptare.
+
+Timp: 31
+Coada 1 este goala
+In coada 2 se afla:  ( 2 , 30 , 3 )  
+Nu mai sunt clienti in asteptare.
+
+Timp: 32
+Coada 1 este goala
+In coada 2 se afla:  ( 2 , 30 , 2 )  
+Nu mai sunt clienti in asteptare.
+
+Timp: 33
+Coada 1 este goala
+In coada 2 se afla:  ( 2 , 30 , 1 )  
+Nu mai sunt clienti in asteptare.
+
+Timp: 34
+Coada 1 este goala
+Coada 2 este goala
+Nu mai sunt clienti in asteptare.
+
+Timp 35
+Coada 1 este goala
+Coada 2 este goala
+Nu mai sunt clienti in asteptare.
+Sfarsit.
+Ora de varf: 12
+Timp mediu de servire: 3.5
+Timp mediu de asteptare in coada: 0.0

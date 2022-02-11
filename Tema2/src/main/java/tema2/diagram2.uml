@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="0.0" y="201.97549048429266">tema2.View</node>
+    <node x="1081.5398796923073" y="825.5821521401413">tema2.Client</node>
+    <node x="265.8540637676934" y="1117.3753446832468">tema2.Controller</node>
+    <node x="80.08213709029576" y="942.4936478071589">tema2.Main</node>
+    <node x="1034.8589152519935" y="275.6571319087432">tema2.SimulatorCoada</node>
+    <node x="565.14515716154" y="0.0">tema2.Executie</node>
+    <node x="643.2347868714974" y="1114.2402444599065">tema2.GeneratorClienti</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="tema2.Executie" target="tema2.SimulatorCoada">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="tema2.Executie" target="tema2.GeneratorClienti">
+      <point x="4.99359008186066" y="-0.2530970057960076" />
+      <point x="4.99359008186066" y="-0.2530970057960076" />
+    </edge>
+    <edge source="tema2.SimulatorCoada" target="tema2.GeneratorClienti">
+      <point x="4.485426766604121" y="2.2092864733734245" />
+      <point x="4.485426766604178" y="2.2092864733734814" />
+    </edge>
+    <edge source="tema2.Controller" target="tema2.View">
+      <point x="-4.819021474043382" y="1.3330536495988667" />
+      <point x="-4.819021474043325" y="1.3330536495988952" />
+    </edge>
+    <edge source="tema2.Controller" target="tema2.Executie">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="tema2.GeneratorClienti" target="tema2.Client">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="tema2.SimulatorCoada" target="tema2.Client">
+      <point x="4.999993982719559" y="0.007757110788702448" />
+      <point x="4.999993982719559" y="0.007757110788702448" />
+    </edge>
+    <edge source="tema2.Controller" target="tema2.GeneratorClienti">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="tema2.Main" target="tema2.Controller">
+      <point x="3.6923359087107883" y="-3.3714470983903766" />
+      <point x="3.6923359087107883" y="-3.3714470983903766" />
+    </edge>
+    <edge source="tema2.Main" target="tema2.View">
+      <point x="-4.998862798563437" y="0.10663358353968988" />
+      <point x="-4.998862798563437" y="0.10663358353966146" />
+    </edge>
+    <edge source="tema2.Executie" target="tema2.View">
+      <point x="2.4941953165159276" y="4.33347317091841" />
+      <point x="2.4941953165159703" y="4.333473170918438" />
+    </edge>
+  </edges>
+  <settings layout="Circular" zoom="0.8" x="465.28571428571416" y="344.71428571428567" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
